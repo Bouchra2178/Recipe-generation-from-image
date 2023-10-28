@@ -14,7 +14,7 @@ The Image to Recipe Streamlit App is a versatile tool that generates recipes bas
 ## How to Use
 1. Clone the repository.
 2. Install the necessary dependencies using `pip install -r requirements.txt`.
-3. Run the application by executing `streamlit run app.py`.
+3. Run the application by executing `streamlit run main.py`.
 
 ## Technologies Used
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
