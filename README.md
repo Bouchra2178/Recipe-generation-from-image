@@ -1,6 +1,5 @@
 # Image to Recipe Streamlit App
-A Streamlit app that generates recipes based on the extracted image captions, and allows users to listen to the generated recipe as speech. 
-
+The Image to Recipe Streamlit App is a versatile tool that generates recipes based on extracted image captions. Additionally, it offers users the ability to listen to the generated recipe in audio format.
 ## Key Functionalities
 - **Image to Text Conversion:** Utilizes Hugging Face's image-to-text pipeline to extract descriptive text from uploaded images.
 - **Recipe Generation using GPT-3.5:** Generates a recipe based on the extracted image caption using OpenAI's GPT-3.5 model.
